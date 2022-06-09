@@ -1,0 +1,19 @@
+- new repository (ex.: dio-desafio-github-primeiro-repositório)
+- descrição opcional
+- público
+- add a readme file
+- faz as alterações que achar necessárias em edit e dps clica em commit
+- code > https > copia
+- abrir o git bash na pasta criada
+- git clone > botão direito > paste
+- cd dio-desafio(tab)
+- git status (verifica que está tudo ok!)
+- cria uma pasta dentro da pasta dio-desafio-... com o nome introdução ao git
+- criar arquivo txt (anotações)
+- git status identificará que há uma pasta nova 
+- para enviar para o controle de versionamento: git add .  ou   git add -A
+  (OBS: esses comandos adicionam localmente)
+- git status ficou verde pq agora ele ja está entendendo que o arquivo de anotações
+criado gostaríamos que ele fosse considerado no controle de versão
+- git commit -m "inclusão das anotações"
+- agora para enviar para a nuvem precisamos: git push origin main
